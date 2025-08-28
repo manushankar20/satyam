@@ -1,3 +1,3 @@
 # satyam
 valentine day's
-https://manushankar20.github.io/satyam/
+https://manyshankar.github.io/satyam/
